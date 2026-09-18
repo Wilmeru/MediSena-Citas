@@ -1,0 +1,47 @@
+[
+    {
+        "id_cita": "CIT-2026-01",
+        "paciente": "Wilmer alexander sanchez canon",
+        "especialidad": "odontodologia",
+        "medico_asignado": "Carlos",
+        "costo_consulta": 10000.0,
+        "es_urgencia": true,
+        "costo_final": 10000.0
+    },
+    {
+        "id_cita": "CIT-2026-02",
+        "paciente": "luis cralos garcia sanchez",
+        "especialidad": "medicina general",
+        "medico_asignado": "arturo",
+        "costo_consulta": 15000.0,
+        "es_urgencia": true,
+        "costo_final": 15000.0
+    },
+    {
+        "id_cita": "CIT-2026-03",
+        "paciente": "maria fernanda rodriguez perez",
+        "especialidad": "pediatria",
+        "medico_asignado": "Sofia",
+        "costo_consulta": 20000.0,
+        "es_urgencia": false,
+        "costo_final": 20000.0
+    },
+    {
+        "id_cita": "CIT-2026-04",
+        "paciente": "jorge enrique gomez martinez",
+        "especialidad": "dermatologia",
+        "medico_asignado": "Elena",
+        "costo_consulta": 25000.0,
+        "es_urgencia": false,
+        "costo_final": 25000.0
+    },
+    {
+        "id_cita": "CIT-2026-05",
+        "paciente": "andrea carolina lopez torres",
+        "especialidad": "cardiologia",
+        "medico_asignado": "Fernando",
+        "costo_consulta": 30000.0,
+        "es_urgencia": true,
+        "costo_final": 30000.0
+    }
+]
